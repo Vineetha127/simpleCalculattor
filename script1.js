@@ -1,0 +1,3 @@
+function Vineetha(){
+    alert(Date())
+}
